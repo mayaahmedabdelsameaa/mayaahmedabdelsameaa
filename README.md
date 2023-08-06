@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayar</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack .Net developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayaahmedabdelsameaa&label=Profile%20views&color=0e75b6&style=flat" alt="mayaahmedabdelsameaa" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Ecommerce ASP.Net
+- 🔭 I’m currently working on TreeNode ASP.Net&MongoDB
 
-- 🌱 I’m currently learning **CRM**
+- 🌱 I’m currently learning **MonogoDB**
 
 - 👨‍💻 All of my projects are available at [https://mayar-ahmed.netlify.app/](https://mayar-ahmed.netlify.app/)
 
