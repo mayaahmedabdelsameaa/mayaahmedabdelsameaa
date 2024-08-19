@@ -11,7 +11,7 @@
 
 <!--- 🌱 I’m currently learning **MonogoDB** -->
 
-- 👨‍💻 All of my projects are available at [https://mayar-ahmed.netlify.app/](https://mayar-ahmed.netlify.app/)
+<!--- 👨‍💻 All of my projects are available at [https://mayar-ahmed.netlify.app/](https://mayar-ahmed.netlify.app/)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
