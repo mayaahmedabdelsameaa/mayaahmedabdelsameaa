@@ -9,7 +9,7 @@
 
 <!--- 🔭 I’m currently working on -->
 
-- 🌱 I’m currently learning **MonogoDB**
+<!--- 🌱 I’m currently learning **MonogoDB** -->
 
 - 👨‍💻 All of my projects are available at [https://mayar-ahmed.netlify.app/](https://mayar-ahmed.netlify.app/)
 
