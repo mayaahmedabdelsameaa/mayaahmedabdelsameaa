@@ -1,6 +1,6 @@
 # Hi there, I'm Mayar Ahmed 👋
 
-### Backend Developer | ASP.NET Core, Node.js & SQL Server
+### Backend Developer | ASP.NET Core, Node.js
 
 Backend Developer with 3+ years of experience building and maintaining backend applications using ASP.NET Core, Node.js, and NestJS.
 
@@ -72,5 +72,13 @@ A production-style backend application built to demonstrate real-world backend e
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/mayar-ahmed-abdelsameaa/
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayaahmedabdelsameaa&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaahmedabdelsameaa&layout=compact)
 
 ---
